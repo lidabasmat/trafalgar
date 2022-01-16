@@ -1,0 +1,58 @@
+body {
+  font-family: 'Mulish', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #7D7987;
+}
+
+ img {
+   max-width: 100%;
+ }
+
+ .rect {
+   background-image: url('rect.svg');
+   background-position: top;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+ .check2 {
+   background-image: url('check2.svg');
+   background-position: right;
+   background-repeat: no-repeat;
+   background-size: auto auto;
+ }
+
+ .bg-element {
+   background-image: url('bg-element.svg');
+   background-position: left;
+   background-repeat: no-repeat;
+   background-size: auto auto;
+ }
+
+ .footer {
+   background-image: url('bg-footer.png');
+   background-position: top;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+ .content {
+   max-width: 1140px;
+ }
+
+ .text-blue-300 {
+   color: #4089ED;
+ }
+
+ .text-gray-700 {
+   color: #1F1534;
+ }
+
+.text-gray-800 {
+  color: #233348;
+}
+
+.bg-blue-400 {
+  background-color: #458FF6;
+}
